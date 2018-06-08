@@ -17,5 +17,4 @@ func main() {
 	} else {
 		fmt.Println("number is more than 1 digit")
 	}
-
 }
