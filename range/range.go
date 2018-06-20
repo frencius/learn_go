@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// add comment range
 func main() {
 	nums := []int{2, 3, 4}
 	fmt.Println("nums:", nums)
